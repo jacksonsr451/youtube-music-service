@@ -109,11 +109,13 @@ GET /youtube/search?query=music
   "videos": [
     {
       "title": "Video 1",
-      "video_id": "123"
+      "video_id": "123",
+      "video_url": "https://www.youtube.com/watch?v=123"
     },
     {
       "title": "Video 2",
-      "video_id": "456"
+      "video_id": "456",
+      "video_url": "https://www.youtube.com/watch?v=456"
     }
   ]
 }
